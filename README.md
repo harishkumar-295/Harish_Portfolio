@@ -19,4 +19,5 @@ Data Science Portfolio
 1. This is a project to predict the churn of customer in the telecom industry.(Binary classification problem)
 2. Performed all the exploratory data analysis to gain insights of the data.
 3. Created a ML model to predict the churn.
+
 4.Created a front-end flask API
