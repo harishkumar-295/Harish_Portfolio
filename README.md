@@ -16,7 +16,7 @@ Data Science Portfolio
 5. Deployed the model in Heroku and made a Flight ticket fare predictor web app.
 
 # [Telecom-Customer-churn-prediction](https://github.com/harishkumar-295/Telecom-Customer-Churn-prediction)
-1. This is a project to predict the churn of customer in the telecom industry.(Binary classification problem)
+1. This is a project to predict the churn of customer in the telecom industry (Binary classification problem).
 2. Performed all the exploratory data analysis to gain insights of the data.
 3. Created a ML model to predict the churn.
-4.Created a front-end flask API
+4. Created a Flask API for Front end.
