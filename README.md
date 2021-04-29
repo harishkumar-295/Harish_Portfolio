@@ -30,3 +30,6 @@ Data Science Portfolio
 2. Performed all the exploratory data analysis to gain insights of the data.
 3. Created a ML model to predict the churn.
 4. Created a Flask API for Front end.
+
+![Telco6](https://user-images.githubusercontent.com/80705710/116535937-fecf6c00-a901-11eb-827e-7e5bebdb7eb6.jpg)
+
