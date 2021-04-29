@@ -7,8 +7,11 @@ Data Science Portfolio
 3. Deployed the model using Flask and Flasgger.
 4. Deployed the model using Docker and Flask.
 5. Deployed the model using Streamlit.
-
+## Output of implementation using Flassger
 ![banknote Swagger](https://user-images.githubusercontent.com/80705710/116535244-2a058b80-a901-11eb-9c26-0380fcca37ed.png)
+
+## Output using Streamlit
+![Banknote streamlit](https://user-images.githubusercontent.com/80705710/116535505-6d5ffa00-a901-11eb-99c6-25e5590517b8.png)
 
 
 
