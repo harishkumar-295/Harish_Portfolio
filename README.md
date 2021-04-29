@@ -23,6 +23,8 @@ Data Science Portfolio
 4. Created a simple flask app for Front-End.
 5. Deployed the model in Heroku and made a Flight ticket fare predictor web app.
 
+![Flightfare output](https://user-images.githubusercontent.com/80705710/116535756-bdd75780-a901-11eb-8f24-b574690dbc94.png)
+
 # [Telecom-Customer-churn-prediction](https://github.com/harishkumar-295/Telecom-Customer-Churn-prediction)
 1. This is a project to predict the churn of customer in the telecom industry (Binary classification problem).
 2. Performed all the exploratory data analysis to gain insights of the data.
