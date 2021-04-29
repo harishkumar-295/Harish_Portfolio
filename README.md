@@ -8,6 +8,11 @@ Data Science Portfolio
 4. Deployed the model using Docker and Flask.
 5. Deployed the model using Streamlit.
 
+![banknote Swagger](https://user-images.githubusercontent.com/80705710/116535244-2a058b80-a901-11eb-9c26-0380fcca37ed.png)
+
+
+
+
 # [Project 2: Flight Fare Prediction App](https://github.com/harishkumar-295/FlightFarePrediction-2021)
 1. An End-to-End Data Science Project that can predict the fare of the flight ticket.
 2. Performed Data Cleaning and Data Preprocessing.
