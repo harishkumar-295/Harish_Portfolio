@@ -25,11 +25,17 @@ Data Science Portfolio
 
 ![Flightfare output](https://user-images.githubusercontent.com/80705710/116535756-bdd75780-a901-11eb-8f24-b574690dbc94.png)
 
-# [Telecom-Customer-churn-prediction](https://github.com/harishkumar-295/Telecom-Customer-Churn-prediction)
+# [Project 3: Telecom-Customer-churn-prediction](https://github.com/harishkumar-295/Telecom-Customer-Churn-prediction)
 1. This is a project to predict the churn of customer in the telecom industry (Binary classification problem).
 2. Performed all the exploratory data analysis to gain insights of the data.
 3. Created a ML model to predict the churn.
 4. Created a Flask API for Front end.
 
 ![Telco6](https://user-images.githubusercontent.com/80705710/116535937-fecf6c00-a901-11eb-827e-7e5bebdb7eb6.jpg)
+
+# [Project 4: Unsupervised-machine-learning-for-market-customer-classification](https://harishkumar-295.github.io/Unsupervised-machine-Learning-for-customer-segmentation/)
+1. This is a project to seperate the customers of a bank to different clusters.
+2. All the Exploratory data analysis has been performed to gain insights from the data.
+3. K-Means unsupervised machine Learning algorithm has been applied to create the clusters and Elbow methos has been used to find the optimal number of clusters.
+4. Further Dimensionality reduction has been performed by using PCA. 
 
